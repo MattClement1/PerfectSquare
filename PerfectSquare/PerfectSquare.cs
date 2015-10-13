@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+*Created by: Matthew Clement
+*Created on: 13-Oct-2015
+*Created for: Unit #3-09
+*This program calculates perfect squares.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
